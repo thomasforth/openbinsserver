@@ -1,0 +1,11 @@
+api/checkformessages?postcode=ls63ls
+api/databasestatus
+api/getusagedata
+api/getaddress?postcode=LS63LS
+api/getcollections?premisesID=1039174&localauthority=Leeds
+api/logbringsitetap?postcode=LS63LS&site=Kirkstall
+api/logappuse?postcode=LS63LS
+api/getlocation?postcode=LS6%203LS
+
+(this replaces the active databse)
+api/updatebindays?password=<password>
