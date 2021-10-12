@@ -9,4 +9,7 @@ The example containing the most features is the Leeds Bins app, available on bot
 
 ## Why this server won't work
 The UK's Postcode Address File, linking the UK's addresses with the UK's postcode is not open data. Since bin collection timetables rely on this dataset, bin collection timetables compatible with Open Bins cannot be shared openly on the internet. Bin collection timetables that can be shared under an open licence exist, for example Leeds City Council publishes their timetables, but these do not allow the creation of an app that meets the user expectation of using their postcode to identify their address.
-So you run this server yourself, but you probably won't be able to get the data that would let it serve bin days and power a bin app. Sorry.
+So you run this server yourself, but you probably won't be able to get the data that would let it serve bin days and power a bin app. This obstacle to wider deployment is the result of decisions by the UK government and you may wish to contact your MP if you are a UK resident.
+
+## Accessibility
+The app meets most of the [UK government's accessibility requirements for public sector bodies](https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps) but the cost of proving compliance is currently too high for me to provide proof. This obstacle to wider deployment is the result of decisions by the UK government and you may wish to contact your MP if you are a UK resident.
